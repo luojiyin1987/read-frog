@@ -1,5 +1,21 @@
 # @read-frog/extension
 
+## 1.32.2
+
+### Patch Changes
+
+- [#1283](https://github.com/mengxi-ream/read-frog/pull/1283) [`219a8d2`](https://github.com/mengxi-ream/read-frog/commit/219a8d29c6a093b822a56cec43e1c3336778e4c9) Thanks [@taiiiyang](https://github.com/taiiiyang)! - feat(subtitles): add a settings toggle menu for video subtitles
+
+- [#1295](https://github.com/mengxi-ream/read-frog/pull/1295) [`75fafc5`](https://github.com/mengxi-ream/read-frog/commit/75fafc5a3e198667094bdbffa6b77858ce49d499) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - refactor: unify webpage translation context and prompt flow
+
+- [#1287](https://github.com/mengxi-ream/read-frog/pull/1287) [`4a56faa`](https://github.com/mengxi-ream/read-frog/commit/4a56faa44c47f8157528fb9bd734a0e51712004c) Thanks [@ishiko732](https://github.com/ishiko732)! - style: improve selection preview scrolling in the selection toolbar
+
+- [#1297](https://github.com/mengxi-ream/read-frog/pull/1297) [`acdd296`](https://github.com/mengxi-ream/read-frog/commit/acdd296e19681b4d2987f2edc2dbdbedd6cd57c8) Thanks [@frogGuaGuaGuaGua](https://github.com/frogGuaGuaGuaGua)! - fix(extension): soften page translation loading spinner with a thinner muted-gray arc
+
+- [#1300](https://github.com/mengxi-ream/read-frog/pull/1300) [`da8d937`](https://github.com/mengxi-ream/read-frog/commit/da8d9376e77939b2ac7be6e85653e467bbcb8019) Thanks [@frogGuaGuaGuaGua](https://github.com/frogGuaGuaGuaGua)! - fix(extension): namespace theme tokens to avoid shadow-root css collisions
+
+- [#1299](https://github.com/mengxi-ream/read-frog/pull/1299) [`1464d77`](https://github.com/mengxi-ream/read-frog/commit/1464d774fddc34c950cf7f44852388af65e3e503) Thanks [@frogGuaGuaGuaGua](https://github.com/frogGuaGuaGuaGua)! - docs(extension): document the real-browser Edge extension testing workflow for UI verification
+
 ## 1.32.1
 
 ### Patch Changes
