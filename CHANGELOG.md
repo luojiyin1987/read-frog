@@ -1,5 +1,19 @@
 # @read-frog/extension
 
+## 1.46.0
+
+### Minor Changes
+
+- [#2059](https://github.com/mengxi-ream/read-frog/pull/2059) [`c7f4535`](https://github.com/mengxi-ream/read-frog/commit/c7f453588a183f1941f70b6205d814b955297dc6) Thanks [@mengxi-ream](https://github.com/mengxi-ream)! - feat(hosted-ai): add Built-in AI Normal and Ultra tiers with quota UI
+
+  Built-in AI now comes in two tiers. Ultra members can run page translation on the advanced model, everyone else keeps Custom AI Actions on the standard one. A new quota section on the API Providers page shows how much of each pool is left and when it resets, and provider dropdowns mark Ultra-only options and gray out what the account cannot run.
+
+### Patch Changes
+
+- [#2057](https://github.com/mengxi-ream/read-frog/pull/2057) [`8486f47`](https://github.com/mengxi-ream/read-frog/commit/8486f478eeac08f6524133d90f85e26af8e353f9) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix(background): scope auth cache invalidation and stop the config-backup wake loop
+
+- [#2054](https://github.com/mengxi-ream/read-frog/pull/2054) [`1034a9a`](https://github.com/mengxi-ream/read-frog/commit/1034a9a9b12031498a35d2f119896f0d4fb3fc65) Thanks [@taiiiyang](https://github.com/taiiiyang)! - fix(subtitles): scale subtitle prefetch look-ahead by playback rate to prevent intermittent loading at 2x/3x
+
 ## 1.45.3
 
 ### Patch Changes
